@@ -3,7 +3,6 @@ int yellow=12;
 int red=11;
 int button=7; //pushbutton
 
-
 void setup() {
 pinMode(green, OUTPUT);
 pinMode(yellow,OUTPUT);
